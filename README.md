@@ -12,26 +12,42 @@ If you like talking **backend, system design or AI**, we’ll get along.
 ## 💪 What I can work with
 
 ### 🖥️ Systems & Cloud
+
 ![Linux](https://img.shields.io/badge/Linux-ccc?style=flat&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-269539?style=flat&logo=nginx&logoColor=white)
 
 ### 🗄️ Databases
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat&logo=google-cloud&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
+![Google Spanner](https://img.shields.io/badge/Google_Spanner-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
 ### ⚙️ Backend & APIs
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=1d1d1d)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Clojure](https://img.shields.io/badge/Clojure-5881D8?style=flat&logo=clojure&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
 
 ### 🎨 Frontend (when needed)
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=1d1d1d)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -50,19 +66,19 @@ If you like talking **backend, system design or AI**, we’ll get along.
 
 ## 🚀 What I’m working on
 
-- Backend-heavy applications and APIs  
-- Scalable system design (matchmaking, caching, feeds)  
+- Backend-heavy applications and APIs
+- Scalable system design (matchmaking, caching, feeds)
 - Applying tech + data thinking to almost anything
-- Strength training, consistency, and long-term growth  
+- Strength training, consistency, and long-term growth
 
 ---
 
 ## 🌟 Goals
 
-- [x] Strong backend foundations  
-- [x] System design mastery  
-- [x] Deep dive into AI-driven systems  
-- [x] Build products with real business impact  
+- [x] Strong backend foundations
+- [x] System design mastery
+- [x] Deep dive into AI-driven systems
+- [x] Build products with real business impact
 
 ---
 
@@ -70,6 +86,7 @@ If you like talking **backend, system design or AI**, we’ll get along.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-todi/)
 [![Email](https://img.shields.io/badge/Email-333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivamtodinov3@gmail.com)
+[![Website](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shivamtodi.com/)
 
 ---
 
